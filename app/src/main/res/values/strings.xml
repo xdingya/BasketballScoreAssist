@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ScoreAssist</string>
+    <string name="teamA">TeamA</string>
+    <string name="teamB">TeamB</string>
+    <string name="scoreA" translatable="false">0</string>
+    <string name="scoreB" translatable="false">0</string>
+    <string name="adda1" translatable="false">+1</string>
+    <string name="adda2" translatable="false">+2</string>
+    <string name="adda3" translatable="false">+3</string>
+    <string name="addb1" translatable="false">+1</string>
+    <string name="addb2" translatable="false">+2</string>
+    <string name="addb3" translatable="false">+3</string>
+    <string name="scorenumberTip" translatable="false">scoreNumber</string>
+    <string name="teamTypeTip" translatable="false">TODO</string>
+    <string name="undo">undo</string>
+    <string name="loop">loop</string>
+    <string name="copyright" translatable="false">往来无白丁©2023 copyright</string>
+</resources>
